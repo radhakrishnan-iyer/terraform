@@ -1,0 +1,7 @@
+instance_type = "t3.micro"
+image_id      = "ami-02396cdd13e9a1257"
+access_key    = "accessKey"
+secret_key    = "secretKey"
+aws_region    = "us-east-1"
+key_name      = "key-tf"
+key = ""

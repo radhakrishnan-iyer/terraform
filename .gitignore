@@ -1,0 +1,8 @@
+ida_rsa
+ida_rsa.pub
+**/ida_rsa
+**/ida_rsa.pub
+**/.terraform
+**/.terraform.lock.hcl
+**/terraform.tfstate
+**/terraform.tfstate.backup
